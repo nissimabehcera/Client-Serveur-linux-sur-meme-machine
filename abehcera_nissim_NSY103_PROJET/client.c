@@ -15,6 +15,9 @@
 #define TAILLE 5
 #define TAILLE_TAB 11
 
+
+
+//test v2.0
 typedef struct{//structure acheminant les informations (consultation/reservation)entre client et
     //serveur
     long requete_type;
